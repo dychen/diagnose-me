@@ -1,0 +1,67 @@
+Head (face, skull, crown)
+External
+- Forehead
+
+- Eyes
+- Nose
+- Ears
+- Mouth
+-- Teeth
+-- Tongue
+- Cheek
+- Jaw (chin)
+Internal
+- Brain
+
+Neck
+External
+- Neck
+- Throat
+-- Adam's apple
+Internal
+- Esophagus
+- 
+
+Shoulders
+
+Arms
+External
+- Upper arm
+- Elbow
+- Lower arm (forearm)
+- Wrist
+- Hands
+-- Finger
+-- Thumb
+
+Thorax (chest, breast)
+External
+Internal
+
+Abdomen (abs)
+External
+- Navel (belly button)
+Internal
+
+Back
+- Spine
+
+Pelvis (hips)
+External
+- Buttocks (butt, ass, glutes, gluteus maximus, gluteals)
+- Groin
+Internal
+
+Legs
+External
+- Upper leg (thighs)
+-- Quadriceps (quads)
+-- Hamstrings (hams)
+- Knee
+- Lower leg
+-- Calves (calf)
+- Ankle
+- Foot
+-- Heel
+-- Toes
+Internal

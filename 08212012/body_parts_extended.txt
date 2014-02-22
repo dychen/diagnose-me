@@ -1,0 +1,65 @@
+Adrenals:
+Appendix: 
+Bladder: 
+Brain: cranium
+Eyes: eyeball, pupil, cornea, lens, iris
+Gallbladder:
+Heart: 
+Intestines: bowels, digestive organs,guts, innards, insides, viscera, vitals
+Kidney: branch,brand,breed,cast, caste,character,classification,collection,color,degree, denomination,department,description,designation,distinction,division,domain,estate,family, feather,frame,genre, genus,grade, grain, grouping,hierarchy,humor,ilk, kidney,league,make,mold,name,nature,order,origin,property,province,quality,range,rank,rate,school, sect,section,selection,set,source,species,sphere,standing,status, stripe,style,suit,temperament,value,variety
+Liver: alive,animate,aware, breathing,conscious,living,vital
+Lung: alveolus, bronchi, pleura
+Ovaries:
+Pancreas: brains, chitlins, chitterlings, giblets, gizzard,heart, kidneys, liver, marrow, mountain oyster, pancreas, prairie oyster,stomach, sweetbread, testis, thymus,tongue, tripe
+Parathyroids:
+Pituitary:
+Prostate:
+Spleen: anger,caprice, choler,depression,dislike,grudge,hatred,hostility,ire, lien,malice,melancholy, milt,rancor,resentment,spite,whim,wrath
+Stomach: abdomen, abdominal region,belly, below the belt, breadbasket, gut,inside, insides, maw, paunch, pot, potbelly, solar plexus, spare tire, tummy
+Testicles: genitalia, gonads, nuts, private parts, privates, pudenda, reproductive organs, sexual organs, stones, testes, testicles, vulva
+Thymus: brains, chitlins, chitterlings, giblets, gizzard,heart, kidneys, liver, marrow, mountain oyster, pancreas, prairie oyster,stomach, sweetbread, testis, thymus,tongue, tripe
+Thyroid:
+Uterus:
+Veins: attitude,bent,character,characteristic, complexion,dash,disposition,faculty,fashion, fettle,hint,humor,line,manner,mind,mode,nature,note,spice,spirit,strain,streak,style,suggestion,suspicion, tang,temper,temperament,tenor, tinge,touch,trace,turn,wave,way
+Head: arch,champion,first,foremost,front,highest,leading,main,pioneer,preeminent,premier,prime,principal,stellar,supreme, topmost
+Forehead: front, temples
+Jaw: bone, chops, jowl, mandible, maxilla,mouth, muzzle, orifice
+Cheek: chop*, choppers, gill, jowl
+Chin: button, jaw, jawbone, mandible, mentum,point
+Eye: appreciation,belief,conviction,discernment,discrimination, eagle eye,feeling,mind,perception,persuasion,point of view,recognition,scrutiny,sentiment,surveillance, tab,taste,view,viewpoint,watch
+Ear: appreciation,consideration,discrimination,hearing,heed,mark,mind,note,notice, observance,observation,perception,regard,remark,sensitivity,taste
+Nose: adenoids, beak,bill*, horn, muzzle, nares, nostrils, olfactory nerves, proboscis, schnoz, smeller, sneezer, sniffer, snoot, snout, snuffer, whiffer
+Mouth: aperture, beak,box, cavity, chops, clam,crevice, delta,door, embouchement,entrance,estuary, firth, fly trap, funnel,gate, gills, gob,harbor, inlet, jaws, kisser, lips, mush, orifice,portal,rim,trap*, yap
+Teeth: choppers, fangs, tooth, tusks
+Tongue: argot,articulation,dialect,discourse,expression,idiom, lingo, parlance, patois,speech,talk, utterance,vernacular,voice
+Throat: esophagus, fauces,gorge,gullet, larynx, maw,passage, pharynx, thorax, trachea, windpipe
+Neck: cape, cervix, collar, isthmus, nape, scruff, strait
+Adam's apple:
+Shoulders: accept,assume,bear,carry,take on, take upon oneself
+Arm: bender, biceps, bough,bow,branch, fin, flapper, flipper,handle,hook,member, offshoot,projection, prong, rod, stump, triceps, upper arm,wing
+Elbow: ancon,angle,bend,bow,corner, crazy bone, crook, crutch,curve, fork, funny bone, half turn, hinge,joint,turn
+Wrist:
+Hand: extremity, fin, fist,grasp,grip, ham,hold,hook, including fingers duke, metacarpus, mitt, palm, paw, phalanges, shaker
+Fingers: antenna,claw, digit, extremity, feeler,hook*, pinky, pointer, ring finger, tactile member, tentacle, thumb
+Thumb: accost,address,advise, appeal to, apply to,beseech,confer,consult,entreat,feel, feel one out, give a play, give a tumble,greet,implore, make advance, make overture, make up to,plead,propose, sound out, speak to, supplicate, take aside, talk to, thumb,tumble
+Spine: back, bone, chine, rachis,ridge, spinal column, vertebrae, vertebral column
+Chest: bin,bureau, cabinet, carton,case, casket, chiffonier, coffer, commode, crate, exchequer, pyxis, receptacle, reliquary, strongbox, treasury, trunk
+Thorax: bosom,breast, bust,heart, mammary glands, peritoneum, pulmonary cavity, rib cage, ribs, thorax, upper trunk
+Breast: bosom, bust,chest,front, mammary glands, mammilla, nipple, teat, udder
+Abdomen: bay window,belly, bowels, breadbasket,corporation, gut,guts, intestines,middle, midriff, midsection, paunch, pot, potbelly, spare tire, tummy, venter, viscera
+Groin: genitals, inguen, inguina, private parts, privates
+Hip: all the rage,chic,chichi*,contemporary,cool*,current, faddy,hot*, in style, in vogue, in-thing,latest, latest thing, mod,modern, modish, natty,new,now,popular,smart,sophisticated, trendsetting,trendy, with it
+Buttocks: back end, backside,behind,bottom,bum,butt, derriere, fanny, fundament, gluteus maximus, haunches, hindquarters, posterior,rear, rump,seat
+Navel: omphalic, umbilical, umbilicate, umbilicated
+Penis:
+Scrotum:
+Clitoris:
+Vulva: genitalia, gonads, nuts, private parts, privates, pudenda, reproductive organs, sexual organs, stones, testes, testicles, vulva
+Leg: brace, column, lap, limb,member,part,pile, pole,portion,post, prop,section,segment, shank,stage,stake, stilt,stretch, stump,support,upright
+Thigh: femur, flank, gammon, groin, ham, hock, loins
+Knee: patella, popliteal
+Calf: foreleg, shin
+Heel: attend,obey
+Ankle: anklebone, astragalus, bone, talus, tarsus
+Foot: hoof, pad, paw
+Toes: appendage, dactyl, digit, phalanges, phalanx
